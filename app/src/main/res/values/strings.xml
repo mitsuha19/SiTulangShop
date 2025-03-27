@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SiTulangShop</string>
+    <string name="item_1">Roti Tawar</string>
+    <string name="item_2">Head and Shoulder</string>
+    <string name="item_3">Tresemme Shampoo</string>
+    <string name="item_4">Saufage Parfum</string>
+    <string name="item_5">Eskulin Princess</string>
+    <string name="item_6">Downy Infusion</string>
+    <string name="item_7">Detol Liquid</string>
+    <string name="item_8">Kanzler Sosis</string>
+    <string name="item_9">Buku Catatan</string>
+    <string name="item_10">Jersey Tim Terbaik</string>
+    
+    <string name="price_1">Rp.15.000,00</string>
+    <string name="price_2">Rp.30.000,00</string>
+    <string name="price_3">Rp.35.000,00</string>
+    <string name="price_4">Rp.45.000,00</string>
+    <string name="price_5">Rp.20.000,00</string>
+    <string name="price_6">Rp.10.000,00</string>
+    <string name="price_7">Rp.15.000,00</string>
+    <string name="price_8">Rp.9.000,00</string>
+    <string name="price_9">Rp.5.000,00</string>
+    <string name="price_10">Rp.500.000,00</string>
+
+    <string name="desc_1">Roti tawar lembut dan fresh, cocok untuk sarapan atau cemilan. Bisa dinikmati dengan selai favorit Anda!</string>
+    <string name="desc_2">Head and Shoulder, sampo anti-ketombe yang menjaga kesehatan kulit kepala dan memberikan sensasi segar setiap kali digunakan.</string>
+    <string name="desc_3">Tresemme Shampoo, pilihan terbaik untuk rambut sehat dan berkilau. Dirancang untuk perawatan rambut profesional di rumah.</string>
+    <string name="desc_4">Saufage Parfum dengan aroma maskulin yang elegan dan tahan lama, meningkatkan kepercayaan diri Anda sepanjang hari.</string>
+    <string name="desc_5">Eskulin Princess, body cologne dengan wangi manis dan menyegarkan, cocok untuk anak-anak dan remaja.</string>
+    <string name="desc_6">Downy Infusion, pewangi pakaian yang memberikan aroma lembut dan tahan lama, membuat pakaian tetap segar sepanjang hari.</string>
+    <string name="desc_7">Dettol Liquid, antiseptik cair yang melindungi dari kuman dan bakteri. Cocok untuk kebersihan tubuh dan lingkungan.</string>
+    <string name="desc_8">Kanzler Sosis, sosis berkualitas dengan rasa gurih dan lezat. Cocok untuk cemilan atau tambahan dalam masakan favorit Anda.</string>
+    <string name="desc_9">Buku Catatan dengan desain simpel dan elegan, ideal untuk mencatat ide, tugas, atau jurnal harian.</string>
+    <string name="desc_10">Jersey Tim Terbaik, jersey eksklusif dengan bahan nyaman dan desain keren, cocok untuk mendukung tim favorit Anda.</string>
+
+
+    <string name="expand_button_content_description">See more or
+less information about the Item.</string>
+
+</resources>
